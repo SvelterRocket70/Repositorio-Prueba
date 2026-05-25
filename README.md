@@ -7,6 +7,6 @@ Por el momento se contara con los archivos principales del proyecto de clasifica
 * EDA_Clasificador de Imagenes
 * Clasificador__Transfer_Learning
 
-## Modificasiones
+## Modificaciones
 
 Esta es una prueba para ver si el controlador del VSCode funciona Correctamente
