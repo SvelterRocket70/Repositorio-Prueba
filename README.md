@@ -10,3 +10,11 @@ Por el momento se contara con los archivos principales del proyecto de clasifica
 ## Modificaciones
 
 Esta es una prueba para ver si el controlador del VSCode funciona Correctamente
+
+## Modificaciones 27/05/06
+
+se añade al repositorio el notebook 
+
+ * "efficientnet_b0_two_stage_pytorch.ipynb" 
+ 
+ donde se implementan los modelos EfficientNet-B0 , ResNet 50 y MobilNet V3 para probar el clasificador con el ultimo dataset creado "Dog's skin diseases-Kaggle_v_corta"
