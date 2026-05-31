@@ -6,15 +6,19 @@ Por el momento se contara con los archivos principales del proyecto de clasifica
 
 * EDA_Clasificador de Imagenes
 * Clasificador__Transfer_Learning
+* Models
+* efficientnet_b0_two_stage_pytorch.ipynb
+* Guardado_de_modelos.ipynb
+* Carga_modelos_y_GradCam.ipynb
 
-## Modificaciones
 
-Esta es una prueba para ver si el controlador del VSCode funciona Correctamente
+En el Notebook "Guardado_de_modelos.ipynb" se entrenan algunos de los modelos de CNN  Con los datos del proyecto
+como lo son EfficientNet y MobileNet
+Guardando los pesos despues del entrenamiento para pode utilizarlo esto en la carpeta Models
 
-## Modificaciones 27/05/06
 
-se añade al repositorio el notebook 
+En el Notebook "Carga_modelos_y_GradCam.ipynb" se muetra los resultados del entrenamiento asi como sus metricas.
 
- * "efficientnet_b0_two_stage_pytorch.ipynb" 
- 
- donde se implementan los modelos EfficientNet-B0 , ResNet 50 y MobilNet V3 para probar el clasificador con el ultimo dataset creado "Dog's skin diseases-Kaggle_v_corta"
+Ademas se utiliza la paqueteria de GradCam para la explicabilidad de los modelos EfficientNet_B0 y MobileNet_V3
+
+
